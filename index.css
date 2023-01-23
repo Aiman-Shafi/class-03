@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Rubik+Bubbles&display=swap");
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero-section {
+  background-color: #f1f5c9;
+  text-align: center;
+  /* width: 700px;
+  margin: 0 auto;
+  padding: 20px 0; */
+}
+
+.wrapper {
+  width: 700px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+h1 {
+  color: #0a8080;
+  font-size: 48px;
+}
+
+p {
+  font-size: 18px;
+  margin: 30px 0;
+}
+
+a {
+  background-color: #0a8080;
+  color: white;
+  text-decoration: none;
+  padding: 10px 40px;
+  border-radius: 10px;
+  font-size: 18px;
+}
